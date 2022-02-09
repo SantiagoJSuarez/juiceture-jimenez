@@ -49,5 +49,8 @@
   font-size: x-large !important;
   font: oblique !important;
   
-  
+}
+
+.text_align {
+  padding-left: 30px ;
 }
