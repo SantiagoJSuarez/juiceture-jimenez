@@ -10,8 +10,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <ItemListContainer />
-      <br/>
+      <ItemListContainer  name= "JUICETURE"/>
       <br/>
       <ItemCount/>
 
