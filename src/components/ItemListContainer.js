@@ -1,11 +1,12 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
-const ItemListContainer = () => {
+
+const ItemListContainer = (props) => {
   return (
     <>
       <div className="container-fluid">
-        <h1> Welcome to the STORE !!!! </h1>
+        <h1> Welcome to :  {props.name} !!!! </h1>
         
       </div>
     </>

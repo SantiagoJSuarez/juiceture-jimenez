@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <ItemListContainer  name= "JUICETURE"/>
       <br/>
-      <ItemCount/>
+      <ItemCount stock="5" initial="1"/>
 
 
     </>
