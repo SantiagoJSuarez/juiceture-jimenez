@@ -2,34 +2,34 @@
 const ItemProducts = [
     {
       id: 1,
-      title: "Mariscos Gratinados",
-      descripcion: "Deliciosos Marisoc Gratinados",
-      price: 250,
+      title: "Mango en Agua",
+      descripcion: "Refresacante jugo de mango en agua",
+      price: 2000,
     },
     {
       id: 2,
-      title: "Ceviche",
-      descripcion: "Deliciosos Ceviche",
-      price: 150,
+      title: "Mora con Leche",
+      descripcion: "Deliciosos Jugo de Mora en Leche",
+      price: 2500,
       
     },
     {
       id: 3,
-      title: "Pulpo",
-      descripcion: "Delicioso pulpo",
-      price: 20,
+      title: "Mango con Piña",
+      descripcion: "Delicioso Jugo con sabores convinado de Mango con Piña",
+      price: 1000,
     },
     {
       id: 4,
-      title: "Camaron procesado",
-      descripcion: "Deliciosos camaron procesado",
-      price: 500,
+      title: "Sandia en Agua",
+      descripcion: "Deliciosos de Sandia en Agua ",
+      price: 1500,
     },
     {
       id: 5,
-      title: "Trucha sin espina",
-      descripcion: "Deliciosa trucha sin espina",
-      price: 50,
+      title: "Naranja",
+      descripcion: "Deliciosa y nutritivo Jugo de Naranja ",
+      price: 500,
     },
   ];
 
